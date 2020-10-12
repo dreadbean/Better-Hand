@@ -14,8 +14,5 @@ void loop() {
   // put your main code here, to run repeatedly:
 digitalWrite(IN1,HIGH);
 digitalWrite(IN2, LOW);
-delay(4000);
-digitalWrite(IN1,LOW);
-digitalWrite(IN2, HIGH);
-delay(800);
+
 }
